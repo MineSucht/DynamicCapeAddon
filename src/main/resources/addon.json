@@ -2,5 +2,9 @@
   "uuid": "%uuid%",
   "name": "Dynamic Cape Addon",
   "mainClass": "eu.dynamics.Core",
-  "transformerClass": "eu.dynamics.core.mixin.Tweaker"
+  "transformerClass": "eu.dynamics.core.mixin.Tweaker",
+  "icon": "",
+  "category": 4,
+  "author": "InvitedToHell & idk.",
+  "description": ""
 }
