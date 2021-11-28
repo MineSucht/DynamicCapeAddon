@@ -1,0 +1,6 @@
+{
+  "uuid": "%uuid%",
+  "name": "Dynamic Cape Addon",
+  "mainClass": "eu.dynamics.Core",
+  "transformerClass": "eu.dynamics.core.mixin.Tweaker"
+}
